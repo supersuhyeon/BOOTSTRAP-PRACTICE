@@ -6,7 +6,7 @@
 $theme-colors: (
   "primary":    $primary,
   "secondary":  yellowgreen,
-  "success":    $success,
+  "success":    pink,
   "info":       $info,
   "warning":    $warning,
   "danger":     $danger,
@@ -16,5 +16,7 @@ $theme-colors: (
 
 
 
-
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+// @import "../node_modules/bootstrap/scss/dropdown";
+// @import "../node_modules/bootstrap/scss/button-group";
+// @import "../node_modules/bootstrap/scss/spinners";
